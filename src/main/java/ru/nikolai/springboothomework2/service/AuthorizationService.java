@@ -10,7 +10,6 @@ import ru.nikolai.springboothomework2.repository.UserRepository;
 import java.util.List;
 
 @Service
-
 public class AuthorizationService {
     private final UserRepository userRepository;
 
